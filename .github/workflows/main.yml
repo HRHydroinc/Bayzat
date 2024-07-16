@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HYDRO BAYZAT IMPLEMENTATION</title>
+    <style>
+        /* CSS for header styling */
+        header {
+            background-color: #FFFFFF;
+            padding: 10px 0;
+            text-align: left;
+        }
+
+        /* CSS for logo styling */
+        .logo {
+            width: 250px; /* Adjust size as needed */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="file:///D:/newsletter-banner-responsive-s-unscreen.gif" alt="Logo" class="logo">
+</header>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bayzat</title>
+  <!-- Include Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .folder {
+      color: #007bff; /* blue color */
+    }
+    .subfolder {
+      color: #17a2b8; /* teal color */
+    }
+    .file {
+      color: #28a745; /* green color */
+    }
+  </style>
+</head>
+<body>
+  <h1>HYDRO BAYZAT IMPLEMENTATION</h1>
+  
+  
+  <!-- Main folder -->
+  <ul class="folder">
+  <h1>EMPLOYEE USERGUIDE</h1>  
+    <li><i class="fas fa-folder"></i> EMPLOYEE USERGUIDE
+      <!-- Subfolder -->
+      <ul class="subfolder">
+        <li><i class="fas fa-folder"></i> EMPLOYEE USER GUIDE - ATTENDANCE
+          <!-- Files -->
+          <ul class="file">
+            <li><a href="https://github.com/HRHydroinc/Bayzat/wiki/EMPLOYEE-USERGUIDE---Attendance-&-Overtime-Hours.pdf#page=2" target="_blank">HOW TO USE ATTENDANCE 
+ON THE BAYZAT APP
+</a></li>
+			<li><a href="https://github.com/HRHydroinc/Bayzat/wiki/EMPLOYEE-USERGUIDE---Attendance-&-Overtime-Hours.pdf#page=4" target="_blank">HOW TO CHECK IN AND 
+CHECK OUT
+</a></li>
+			<li><a href="https://github.com/HRHydroinc/Bayzat/wiki/EMPLOYEE-USERGUIDE---Attendance-&-Overtime-Hours.pdf#page=7" target="_blank">WORK BREAKS: HOW TO 
+START AND END BREAK
+</a></li>
+			<li><a href="EMPLOYEE USERGUIDE - Attendance & Overtime Hours.pdf#page=10" target="_blank">HOW TO VIEW YOUR 
+ATTENDANCE REPORTS
+</a></li>
+			<li><a href="EMPLOYEE USERGUIDE - Attendance & Overtime Hours.pdf#page=14" target="_blank">HOW TO VIEW SHIFTS AND 
+MARK ATTENDANCE
+</a></li>
+			<li><a href="EMPLOYEE USERGUIDE - Attendance & Overtime Hours.pdf#page=18" target="_blank">MULTIPLE VISITS - START AND 
+END A VISIT
+</a></li>
+			<li><a href="EMPLOYEE USERGUIDE - Attendance & Overtime Hours.pdf#page=23" target="_blank">VIEWING YOUR SCHEDULED 
+OVERTIME HOURS
+</a></li>
+			<li><a href="EMPLOYEE USERGUIDE - Attendance & Overtime Hours.pdf#page=26" target="_blank">HOW TO REQUEST EXTRA 
+HOURS COMPENSATION
+</a></
+        
